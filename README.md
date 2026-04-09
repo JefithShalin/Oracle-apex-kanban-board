@@ -27,20 +27,6 @@ This implementation provides an interactive user interface with drag-and-drop fu
 * PL/SQL (AJAX Callback Processes)
 * HTML and CSS
 
-## Project Structure
-
-oracle-apex-kanban-board/
-│
-├── README.md
-├── images/
-│   └── kanban-ui.png
-├── js/
-│   └── kanban.js
-├── sql/
-│   └── kanban_tables.sql
-└── apex/
-    └── application_export.sql
-
 ## Benefits
 
 * Improved task visibility
